@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#Script para converter imagens de jpg para png
+#Script para converter imagens de .jpg para .png
 #Autor: Rodrigo Sousa
 #
 echo "inicializando"
