@@ -3,7 +3,7 @@
 #Script para converter imagens de jpg para png
 #Autor: Rodrigo Sousa
 #
-echo iniciando
+echo "inicializando"
 
 cd imagens-livros
 
@@ -14,6 +14,6 @@ do
 	convert $imagem $img_sem_ext.png
 done
 
-echo fint
+echo "finalizando"
 
 cd..
